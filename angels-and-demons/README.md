@@ -1,0 +1,6 @@
+Angels and Demons at play is a choose your own adventure game based off the film 'Space is the Place' by avant-garde jazz musician Sun-Ra. The core of the game will be a text-based conversation and card-game between Sun-Ra and The Overseer -- a conversation behind the scenes of the World that will unlock alternate destines for humanity.
+
+Similar to an RPG dialogue, the user will be asked questions at various turning points in the conversation, and will have four choices of response. The difference here, is that the choices of response will be concealed behind 4 Tarot cards. The player picks 1 of the 4 cards to unlock an unknown answer, and different patterns of choices produce different versions of the future. By the end of the game, the users choices will be compiled into a story to be displayed on the screen. The user wins if humanity immortalizes itself and makes it into space. The user looses if the story ends in extinction. The fate of the World lies in your hands - just play your cards right!
+
+The game will make use of HTML, CSS and Javascript. Using JS, I will use conditional statements to control the patterns of response, functions, alert messages and CSS grids and Flexbox. The biggest challenge I forsee is compiling the story at the end.
+# angels-and-demons
